@@ -1,3 +1,4 @@
 node_modules
 package-lock.json
 teacher.test.js
+server/config/config.json
